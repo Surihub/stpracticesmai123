@@ -34,5 +34,3 @@ df1 = pd.read_csv(csv_url1)
 counts = df1["choice"].value_counts()
 st.write("## `choice` 항목별 빈도수")
 st.bar_chart(counts)
-
-st.image("이미지 샘플.png")
