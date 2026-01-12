@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("숩숩이의 앱!")
+st.title("숩숩이의 앱!!!!!")
 st.write(
     "안녕하세요! 저는 숩숩입니다. 저는 코딩을 좋아해요!"
 )
